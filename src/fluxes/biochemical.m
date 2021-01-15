@@ -353,6 +353,7 @@ biochem_out.gs      =  gs;
 biochem_out.RH      =  RH;
 biochem_out.warnings = warnings;
 %fprintf('fcount = %d\n', fcount);
+biochem_out.Gamma_star = Gamma_star; %XY added
 
 biochem_out.Vcmax   = Vcmax;
 %biochem_out.Vc = Vc;  % export the components of A for diagnostic charts
