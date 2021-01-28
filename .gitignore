@@ -12,3 +12,6 @@ SCOPE_v*/exercise*
 SCOPE_v1.73/
 data/
 .DS_Store
+*.csv
+output/
+input/*.csv
